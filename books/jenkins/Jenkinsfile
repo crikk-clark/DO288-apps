@@ -13,7 +13,7 @@ pipeline {
         DEV_PROJECT = "cclark01-books-dev"
         STAGE_PROJECT = "cclark01-books-stage"
         APP_GIT_URL = "https://github.com/crikk-clark/DO288-apps"
-        NEXUS_SERVER = "https://https://api.ocp-na2.prod.nextcle.com/repository/nodejs"
+        NEXUS_SERVER = "https://nexus-common.apps..ocp-na2.prod.nextcle.com/nodejs"
 
         // DO NOT CHANGE THE GLOBAL VARS BELOW THIS LINE
         APP_NAME = "books"
